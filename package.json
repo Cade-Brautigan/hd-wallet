@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "@scure/bip32": "^1.5.0",
+    "@scure/bip39": "^1.4.0",
+    "@solana/web3.js": "^1.95.4",
+    "bitcoinjs-lib": "^7.0.0-rc.0",
+    "ecpair": "^3.0.0-rc.0",
+    "ethers": "^6.13.4",
+    "micro-ed25519-hdkey": "^0.1.2",
+    "tiny-secp256k1": "^2.2.3"
+  }
+}
